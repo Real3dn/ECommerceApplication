@@ -15,7 +15,7 @@ npm install
 npm run dev
 ```
 
-##Default Admin Credentials
+## Default Admin Credentials
 Username: admin
 Password: admin123
 
