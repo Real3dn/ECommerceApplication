@@ -11,7 +11,7 @@ export default function Footer() {
           
           {/* Company Info */}
           <div>
-            <h3 className="text-xl font-bold text-white mb-4">ShopHub</h3>
+            <h3 className="text-xl font-bold text-white mb-4">Real3dn's Shop</h3>
             <p className="text-gray-400 mb-4">
               Your one-stop shop for amazing products. Quality products, great prices, and fast delivery.
             </p>
@@ -119,7 +119,7 @@ export default function Footer() {
                 <svg className="h-5 w-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                <a href="mailto:support@shophub.com" className="hover:text-white transition-colors duration-200">
+                <a href="mailto:support@real3dnshop.com" className="hover:text-white transition-colors duration-200">
                   support@Real3dnShop.com
                 </a>
               </li>
